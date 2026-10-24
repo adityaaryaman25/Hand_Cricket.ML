@@ -1,0 +1,3 @@
+timestamp,match_id,winner,human_score,ai_score,human_won_toss,toss_choice
+2026-10-24T18:34:42+05:30,20261024_183412_1,human,25,20,0,odd
+2026-10-24T20:24:03+05:30,20261024_202336_1,ai,46,50,1,odd

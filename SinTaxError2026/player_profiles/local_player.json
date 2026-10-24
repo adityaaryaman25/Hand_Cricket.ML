@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "player_id": "local_player",
+  "config": {
+    "legal_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "alpha": 1.0,
+    "beta": 3.0,
+    "recency_half_life": 20.0,
+    "share": 0.02,
+    "eta": 1.0,
+    "floor": 0.01,
+    "stat_half_life": 60.0,
+    "min_obs": 15,
+    "z_threshold": 2.0
+  },
+  "records": [
+    {
+      "move": 4,
+      "my_move": 3,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792872748.326
+    },
+    {
+      "move": 3,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792872751.275
+    },
+    {
+      "move": 10,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792872753.744
+    },
+    {
+      "move": 1,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792872756.212
+    },
+    {
+      "move": 10,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792872770.41
+    },
+    {
+      "move": 2,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873059.385
+    }
+  ]
+}

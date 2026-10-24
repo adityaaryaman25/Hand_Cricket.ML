@@ -1,0 +1,1010 @@
+{
+  "schema_version": 1,
+  "player_id": "26118004",
+  "config": {
+    "legal_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "alpha": 1.0,
+    "beta": 3.0,
+    "recency_half_life": 20.0,
+    "share": 0.02,
+    "eta": 1.0,
+    "floor": 0.01,
+    "stat_half_life": 60.0,
+    "min_obs": 15,
+    "z_threshold": 2.0
+  },
+  "records": [
+    {
+      "move": 4,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bat",
+        "score": 0
+      },
+      "ts": 1792780145.856
+    },
+    {
+      "move": 5,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bat",
+        "score": 4
+      },
+      "ts": 1792780150.721
+    },
+    {
+      "move": 6,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bat",
+        "score": 9
+      },
+      "ts": 1792780153.661
+    },
+    {
+      "move": 7,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bat",
+        "score": 15
+      },
+      "ts": 1792780156.953
+    },
+    {
+      "move": 6,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bowl",
+        "score": 0,
+        "target": 16
+      },
+      "ts": 1792780174.436
+    },
+    {
+      "move": 7,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bowl",
+        "score": 10,
+        "target": 16
+      },
+      "ts": 1792780181.65
+    },
+    {
+      "move": 5,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 2,
+        "innings": 1,
+        "role": "bowl",
+        "score": 0
+      },
+      "ts": 1792780307.773
+    },
+    {
+      "move": 10,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 2,
+        "innings": 1,
+        "role": "bowl",
+        "score": 10
+      },
+      "ts": 1792780312.714
+    },
+    {
+      "move": 9,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 2,
+        "innings": 2,
+        "role": "bat",
+        "score": 0,
+        "target": 11
+      },
+      "ts": 1792780319.011
+    },
+    {
+      "move": 6,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 2,
+        "innings": 2,
+        "role": "bat",
+        "score": 9,
+        "target": 11
+      },
+      "ts": 1792780322.946
+    },
+    {
+      "move": 8,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 0
+      },
+      "ts": 1792780339.727
+    },
+    {
+      "move": 5,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 8
+      },
+      "ts": 1792780342.852
+    },
+    {
+      "move": 2,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 13
+      },
+      "ts": 1792780346.167
+    },
+    {
+      "move": 5,
+      "my_move": 3,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 15
+      },
+      "ts": 1792780351.173
+    },
+    {
+      "move": 10,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 20
+      },
+      "ts": 1792780354.447
+    },
+    {
+      "move": 5,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 1,
+        "role": "bat",
+        "score": 30
+      },
+      "ts": 1792780357.139
+    },
+    {
+      "move": 10,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 0,
+        "target": 31
+      },
+      "ts": 1792780363.785
+    },
+    {
+      "move": 8,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 9,
+        "target": 31
+      },
+      "ts": 1792780367.249
+    },
+    {
+      "move": 1,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 18,
+        "target": 31
+      },
+      "ts": 1792780371.696
+    },
+    {
+      "move": 10,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 25,
+        "target": 31
+      },
+      "ts": 1792780373.826
+    },
+    {
+      "move": 9,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 26,
+        "target": 31
+      },
+      "ts": 1792780376.61
+    },
+    {
+      "move": 9,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 27,
+        "target": 31
+      },
+      "ts": 1792780379.064
+    },
+    {
+      "move": 9,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 28,
+        "target": 31
+      },
+      "ts": 1792780411.911
+    },
+    {
+      "move": 3,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 29,
+        "target": 31
+      },
+      "ts": 1792780413.299
+    },
+    {
+      "move": 1,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "cli_session_1792780121",
+        "game_id": 3,
+        "innings": 2,
+        "role": "bowl",
+        "score": 30,
+        "target": 31
+      },
+      "ts": 1792780415.863
+    },
+    {
+      "move": 2,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871426.594
+    },
+    {
+      "move": 3,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 6,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871434.337
+    },
+    {
+      "move": 4,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 8,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871435.196
+    },
+    {
+      "move": 1,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 13,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871435.916
+    },
+    {
+      "move": 3,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 21,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871436.514
+    },
+    {
+      "move": 4,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowl",
+        "score": 31,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871437.042
+    },
+    {
+      "move": 5,
+      "my_move": 3,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 0,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871440.629
+    },
+    {
+      "move": 2,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 5,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871441.22
+    },
+    {
+      "move": 3,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 7,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871441.771
+    },
+    {
+      "move": 4,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 10,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871442.266
+    },
+    {
+      "move": 2,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 14,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871442.798
+    },
+    {
+      "move": 5,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 16,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871443.239
+    },
+    {
+      "move": 2,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 21,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871443.717
+    },
+    {
+      "move": 3,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 23,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871444.141
+    },
+    {
+      "move": 5,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 26,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871444.626
+    },
+    {
+      "move": 2,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "cli_session_1792871328",
+        "game_id": 1,
+        "innings": 2,
+        "role": "bat",
+        "score": 31,
+        "target": 32,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792871445.108
+    },
+    {
+      "move": 4,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873525.411
+    },
+    {
+      "move": 3,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873532.076
+    },
+    {
+      "move": 4,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873538.225
+    },
+    {
+      "move": 6,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873541.668
+    },
+    {
+      "move": 7,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873544.713
+    },
+    {
+      "move": 4,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873547.97
+    },
+    {
+      "move": 10,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873555.071
+    },
+    {
+      "move": 5,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873558.289
+    },
+    {
+      "move": 5,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873561.19
+    },
+    {
+      "move": 5,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873575.856
+    },
+    {
+      "move": 8,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873584.363
+    },
+    {
+      "move": 4,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873589.605
+    },
+    {
+      "move": 1,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873602.263
+    },
+    {
+      "move": 2,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873615.238
+    },
+    {
+      "move": 5,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792873623.588
+    },
+    {
+      "move": 3,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878561.758
+    },
+    {
+      "move": 3,
+      "my_move": 9,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878564.461
+    },
+    {
+      "move": 7,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878569.658
+    },
+    {
+      "move": 10,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878574.756
+    },
+    {
+      "move": 8,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878579.44
+    },
+    {
+      "move": 5,
+      "my_move": 6,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878582.572
+    },
+    {
+      "move": 10,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878585.193
+    },
+    {
+      "move": 8,
+      "my_move": 2,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878588.959
+    },
+    {
+      "move": 7,
+      "my_move": 8,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878594.517
+    },
+    {
+      "move": 2,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878598.762
+    },
+    {
+      "move": 4,
+      "my_move": 4,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "bowling",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878604.262
+    },
+    {
+      "move": 10,
+      "my_move": 5,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878614.229
+    },
+    {
+      "move": 4,
+      "my_move": 1,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878620.497
+    },
+    {
+      "move": 2,
+      "my_move": 10,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878623.399
+    },
+    {
+      "move": 6,
+      "my_move": 3,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878627.191
+    },
+    {
+      "move": 7,
+      "my_move": 7,
+      "ctx": {
+        "session_id": "gesture_session",
+        "game_id": 1,
+        "innings": 1,
+        "role": "batting",
+        "score": 0,
+        "wickets_left": 1,
+        "max_wickets": 1
+      },
+      "ts": 1792878631.334
+    }
+  ]
+}
