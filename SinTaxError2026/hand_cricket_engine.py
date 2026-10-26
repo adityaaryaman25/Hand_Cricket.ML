@@ -1,21 +1,4 @@
-"""
-hand_cricket_engine.py
-======================
-Modular Hand Cricket ML Engine & Strategy Engine with Threat-Aware Risk Management,
-Multi-Level Difficulty Control, and Detailed Diagnostic / Test Mode Support.
 
-Key Components:
----------------
-1. MovePredictor:
-   - Maintains persistent batting histories per player_id across sessions.
-   - Hybrid sub-models: Frequency, Recency Decay, Sequential Markov Chains (1 & 2),
-     Context Conditionals, and Reaction/Delta models with Laplace/Bayesian smoothing.
-   - Dynamic difficulty filtering (Easy, Medium, Hard, Expert).
-
-2. StrategyEngine (Threat-Aware Risk Management System):
-   - Threat Avoidance & Anti-Cycling 6-ball lookback window.
-   - Multi-Wicket Awareness: Adjusts risk threshold dynamically based on wickets remaining.
-"""
 
 from __future__ import annotations
 
