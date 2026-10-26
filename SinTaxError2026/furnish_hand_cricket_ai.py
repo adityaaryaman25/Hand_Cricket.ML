@@ -1,32 +1,5 @@
 #!/usr/bin/env python3
-"""
-Adaptive Hand Cricket AI with webcam gesture input and a dashboard-style UI.
 
-Run:
-    python hand_cricket_ai.py
-
-Optional:
-    python hand_cricket_ai.py --generate-synthetic
-    python hand_cricket_ai.py --reset-profile
-
-How you play:
-- CHOICES (odd/even toss call, bat/bowl) are made in popups inside the game
-  window: click a button or press 1 / 2.
-- NUMBERS are shown to the webcam. Whenever a number gesture is detected and
-  stable, it is taken as your turn (toss number, batting number, bowling number).
-- After a number is accepted, lower your hand out of the camera view; the next
-  turn starts once the camera sees no hand. (This lets you show the same
-  number twice in a row.)
-- Press Q in the game window to save and quit.
-
-Game rules:
-- Human calls odd/even and both choose a toss number (1..10).
-- The caller wins the toss if the sum has the called parity; otherwise the other player wins.
-- Batter and bowler each choose 1..10. Equal numbers = wicket; otherwise batter's number is added.
-- The session counts HUMAN gameplay number selections (batting or bowling), not toss picks.
-- The session stops at the requested number of human gameplay selections, even mid-match.
-- Learned profile/history persist in JSON/CSV between runs.
-"""
 from __future__ import annotations
 
 import argparse
